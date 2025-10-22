@@ -10,3 +10,5 @@ git checkout (branch name)
 git clone -b branch name URL-
 
 git clone url
+
+git
